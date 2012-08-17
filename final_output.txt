@@ -1,0 +1,1193 @@
+usa_new york city_courtyard_new_york_manhattan_midtown_east: 0.811166553754 0.25
+usa_nevada_las-vegas_blair_house_suites: 0.253054412911 0.2
+china_shanghai_purple_mountain_hotel: 0.177017314431 0.32
+are_dubai_four_points_by_sheraton_sheikh_zayed_road_dubai: 0.544749058821 0.0
+uk_england_london_london_tower_bridge_apartments: 0.255437314437 0.4
+usa_illinois_chicago_inn_at_lincoln_park: 0.603979595201 0.5
+uk_england_london_hotel_la_place: 0.661547566713 0.5
+uk_england_london_st_david_s_hotels: 0.846025504202 0.5
+can_montreal_le_westin_montreal: 0.259459825624 0.5
+uk_england_london_ibis_london_earls_court: 0.897610593195 0.5
+are_dubai_westin_dubai_mina_seyahi_beach_resort_marina: 1.0281696651 0.3
+india_new delhi_hotel_raunak_international: 0.629015450966 0.2
+china_beijing_shangri_la_kerry_centre_hotel: 0.258383603747 0.0
+can_montreal_auberge_bonaparte: 1.53633721831 0.0
+china_beijing_oakwood_residence_beijing: 0.220064699376 0.0
+usa_san francisco_civic_center_inn: 0.201170308436 0.5
+usa_new york city_beekman_tower_hotel: 1.14538555872 0.2
+are_dubai_city_seasons_suites: 0.167935639312 0.1
+china_beijing_jinqiao_international_apartment_hotel: 0.222211795512 0.0
+usa_san francisco_courtyard_by_marriott_fisherman_s_wharf: 0.724354492147 0.5
+usa_nevada_las-vegas_bel_aire_west: 0.137266971792 0.5
+uk_england_london_hyde_park_court_hotel: 0.237002864868 0.5
+uk_england_london_sidney_hotel: 0.27027344117 0.32
+uk_england_london_corbigoe_hotel: 0.249420857168 0.1
+usa_new york city_comfort_inn_midtown_west_convention_center: 0.740451979725 0.2
+uk_england_london_oliver_plaza_hotel: 0.261700083548 0.0
+can_quebec_montreal_quality_hotel_downtown: 0.636788483055 0.5
+india_new delhi_hotel_aster_inn: 0.227645306381 0.2
+can_quebec_montreal_quality_hotel_midtown: 0.239175460284 0.2
+can_montreal_holiday_inn_montreal_airport: 0.611381912912 0.35
+uk_england_london_easyhotel_paddington_london: 0.732533235743 0.5
+usa_illinois_chicago_heart_o_chicago_motel: 0.258087699281 0.35
+usa_nevada_las-vegas_suncoast_hotel_and_casino: 0.525721358894 0.6
+can_montreal_delta_centre_ville: 1.0600901649 0.5
+china_shanghai_portman_ritz_carlton_shanghai: 0.267362923975 0.35
+usa_san francisco_intercontinental_mark_hopkins_san_francisco: 1.49906889743 0.5
+can_montreal_fairmont_the_queen_elizabeth: 1.38870578946 0.35
+uk_england_london_hotel_westminster: 0.265563571265 0.0
+uk_england_london_la_suite_executive_hotel: 0.265651135418 0.2
+usa_san francisco_americas_best_value_inn_suites_soma: 0.231875011809 0.45
+usa_san francisco_bayside_inn_at_the_wharf_pacific_hotels: 0.669183257026 0.5
+usa_illinois_chicago_hampton_inn_and_suites_chicago_downtown: 0.791166020965 0.5
+are_dubai_le_meridien_fairway: 0.639599203334 0.5
+uk_england_london_thanet_hotel: 0.603701018336 0.2
+uk_england_london_andrews_house_hotel: 0.162052228751 0.35
+usa_nevada_las-vegas_tuscany_suites_casino: 0.814008659641 0.6
+can_quebec_montreal_hotel_a2k: 0.197489291752 0.5
+uk_england_london_euro_hotel_clapham: 1.3117232844 0.4
+uk_england_london_radisson_edwardian_leicester_square_hotel: 0.990094328907 0.3
+china_shanghai_grand_mercure_baolong_shanghai: 0.214244522676 0.5
+uk_england_london_rathbone_hotel: 0.570181342185 0.0
+uk_england_london_the_kensington_hotel: 0.629854485034 0.7
+china_beijing_renaissance_beijing_hotel: 0.622898163058 0.29
+usa_san francisco_days_inn_san_francisco_at_the_beach: 0.212948644924 0.0
+are_dubai_flora_grand_hotel: 0.242023368108 0.35
+usa_new york city_the_lombardy: 0.198447712448 0.5
+can_quebec_montreal_sofitel_montreal: 1.36344601814 0.3
+uk_england_london_queens_park_hotel: 0.269479753233 0.26
+uk_england_london_avonmore_hotel: 0.262565616707 0.35
+uk_england_london_alexander_house_hotel: 0.102590818769 0.5
+uk_england_london_white_lodge_hotel: 0.170437766117 0.1
+china_shanghai_howard_johnson_plaza_hotel_shanghai: 0.249818612286 0.5
+are_dubai_le_meridien_dar_al_sondos_hotel_apartments: 0.900394562023 0.35
+usa_san francisco_serrano_hotel_a_kimpton_hotel: 1.23947489656 0.5
+usa_new york city_washington_square_hotel: 0.755198639073 0.25
+china_shanghai_the_bund_riverside_hotel: 0.904299457607 0.3
+uk_england_london_collingham_apartments: 0.600512080029 0.0
+uk_england_london_hilton_london_canary_wharf: 1.37127200177 0.66
+china_beijing_swissotel_beijing: 0.608434359441 0.5
+usa_nevada_las-vegas_venetian_resort_hotel_casino: 1.26064978946 0.0
+uk_england_london_holiday_inn_express_london_stratford: 0.220949378806 0.3
+usa_nevada_las-vegas_courtyard_by_marriott_las_vegas_summerlin: 0.199443959829 0.35
+usa_nevada_las-vegas_south_point_hotel_casino_and_spa: 0.77854132831 0.2
+usa_illinois_chicago_la_quinta_inn_suites_chicago_northshore: 0.203265055076 0.5
+uk_england_london_marne_hotel: 0.609718384163 0.7
+usa_san francisco_rodeway_inn_civic_center: 0.627787040918 0.68
+can_quebec_montreal_knights_inn_montreal_west: 0.21468403039 0.3
+usa_illinois_chicago_majestic_hotel: 0.622197109711 0.5
+uk_england_london_queen_s_hotel: 0.102358425972 0.3
+uk_england_london_holiday_inn_express_london_city: 1.13182461544 0.5
+usa_new york city_the_blakely_new_york: 1.07340833129 0.0
+uk_england_london_saint_simeon: 0.252827554089 0.5
+uk_england_london_westland_hotel: 0.262797977416 0.2
+uk_england_london_park_inn_hyde_park: 0.942920055882 0.25
+can_quebec_montreal_comfort_hotel_suites_downtown_montreal: 0.745437539686 0.0
+uk_england_london_hotel_65: 0.641637861801 0.0
+uk_england_london_bankside_house: 0.237563619899 0.5
+are_dubai_courtyard_by_marriott_green_community_dubai: 0.177862372566 0.5
+china_shanghai_sun_island_golf_hotspring_resort: 0.166000654799 0.35
+usa_new york city_amsterdam_court_hotel: 0.797830249186 0.35
+are_dubai_grand_palace_hotel_apartments: 0.131180085847 0.4
+uk_england_london_piccolino_hotel: 0.271830229219 0.5
+usa_san francisco_grand_hyatt_san_francisco: 0.962443488877 0.0
+usa_new york city_four_points_by_sheraton_manhattan_chelsea: 0.776203428582 0.5
+uk_england_london_premier_inn_london_buckhurst_hill: 0.247009148424 0.2
+uk_england_london_kings_hotel: 0.247488787158 0.3
+are_dubai_al_bustan_centre_residence: 0.244463873096 0.5
+uk_england_london_avni_luxury_serviced_apartments: 0.216364316245 0.2
+china_beijing_beijing_far_east_international_youth_hostel: 0.271416693188 0.25
+usa_new york city_belleclaire_hotel: 1.29011659456 0.1
+usa_new york city_park_79_hotel: 1.1484929716 0.35
+uk_england_london_myhotel_bloomsbury: 1.0409499387 0.2
+uk_england_london_citadines_london_trafalgar_square: 1.02615850151 0.1
+china_beijing_the_aman_at_summer_palace: 0.213701953211 0.5
+uk_england_london_jenkins_hotel: 0.609080013155 0.41
+usa_illinois_chicago_best_western_river_north_chicago_downtown_hotel: 0.582786771812 0.5
+are_dubai_angsana_dubai: 0.596098669997 0.5
+china_beijing_the_emperor: 0.257182835559 0.5
+can_montreal_terrace_st_denis: 0.127756182054 0.45
+uk_england_london_millers_residence: 1.22669135046 0.5
+uk_england_london_menzies_prince_regent: 0.169154894992 0.5
+uk_england_london_thistle_marble_arch: 1.05727930925 0.0
+are_dubai_regal_plaza_dubai: 0.253243682284 0.5
+india_new delhi_megha_palace: 0.193924402681 0.0
+usa_nevada_las-vegas_malibu_bay_suites: 0.103079229917 0.4
+china_beijing_fujian_hotel: 0.166041204797 0.25
+usa_nevada_las-vegas_hampton_inn_las_vegas_summerlin: 0.670640502391 0.7
+india_new delhi_hotel_lal_s_haveli: 0.248276788187 0.2
+uk_england_london_kensington_house_hotel: 0.575957683138 0.5
+uk_england_london_best_western_paddington_court_inn: 0.131999157783 0.5
+can_quebec_montreal_hotel_de_l_elysee: 0.640643834102 0.5
+uk_england_london_staunton_hotel: 0.968642699222 0.2
+are_dubai_abc_almanar_hotel_apartment: 0.156318361905 0.5
+usa_san francisco_the_orchard_hotel: 1.13332413066 0.5
+china_shanghai_jw_marriott_hotel_shanghai_at_tomorrow_square: 0.826279361776 0.26
+china_beijing_traders_hotel: 0.672422573537 0.3
+india_new delhi_intercontinental_eros_nehru_place: 0.265672007446 0.5
+can_quebec_montreal_le_cantlie_suites_hotel: 0.966678133822 0.3
+china_beijing_kapok_hotel: 0.763916949673 0.5
+uk_england_london_hilton_london_tower_bridge: 1.23569189945 0.0
+usa_nevada_las-vegas_tropicana_resort_and_casino: 1.07094381109 0.0
+china_beijing_lee_garden_service_apartment_beijing: 0.267270931213 0.5
+uk_england_london_linden_house_hotel: 0.238672213812 0.2
+can_quebec_montreal_days_hotel_and_conference_center_montreal_metro: 0.219041426954 0.5
+usa_new york city_travel_inn_hotel_new_york: 1.15179450902 0.5
+uk_england_london_radisson_edwardian_hampshire_hotel: 1.20343778332 0.5
+uk_england_london_kensington_manor: 0.214086058274 0.32
+usa_nevada_las-vegas_rio_suite_hotel_and_casino: 1.12820718134 0.35
+india_new delhi_itc_maurya_new_delhi: 0.85686282245 0.05
+usa_new york city_four_seasons_hotel_new_york: 0.985184475657 0.5
+uk_england_london_park_plaza_county_hall_london: 0.610587142891 0.5
+can_montreal_fairfield_inn_suites_montreal_airport: 0.261383875161 0.5
+uk_england_london_arriva_hotel: 0.571963728615 0.25
+uk_england_london_best_western_phoenix_hotel: 1.08646372003 0.2
+usa_new york city_helmsley_middletowne_hotel: 1.37421722902 0.5
+usa_nevada_las-vegas_sportsman_s_royal_manor: 0.134850178278 0.5
+are_dubai_park_hyatt_dubai: 0.868450211295 0.35
+usa_nevada_las-vegas_tahiti_village: 0.868378885165 0.0
+china_beijing_jade_garden_hotel: 0.261026137518 0.25
+are_dubai_hatta_fort_hotel: 0.905767825095 0.5
+uk_england_london_avon_hotel: 0.236447330319 0.5
+usa_san francisco_roberts_at_the_beach_motel: 0.223211100933 0.5
+usa_illinois_chicago_the_whitehall_hotel: 1.08575276303 0.5
+usa_new york city_holiday_inn_express_new_york_city_times_square: 0.261086183541 0.2
+usa_nevada_las-vegas_plaza_hotel_casino: 0.953568689016 0.5
+uk_england_london_novotel_london_tower_bridge: 0.279401443952 0.36
+are_dubai_the_palace_the_old_town: 1.05762647038 0.35
+uk_england_london_wyndham_grand_london_chelsea_harbour: 0.798994019626 0.35
+are_dubai_intercontinental_dubai_festival_city: 0.968919529841 0.25
+usa_new york city_the_iroquois: 1.46220009949 0.4
+china_shanghai_hotel_carolina: 0.229900099459 0.5
+uk_england_london_metro_hotel: 0.201132765425 0.5
+uk_england_london_bridgestreet_corporate_housing_the_kings_wardrobe: 0.244021001826 0.1
+uk_england_london_rubens_at_the_palace: 1.42815672074 0.25
+usa_san francisco_hotel_monaco_san_francisco_a_kimpton_hotel: 1.46412928065 0.05
+uk_england_london_guesthouse_west: 0.759736301046 0.3
+india_new delhi_the_connaught: 0.220974523554 0.5
+china_beijing_aloft_beijing_haidian: 0.19681844989 0.2
+usa_illinois_chicago_ohio_house_motel: 0.63218192784 0.25
+uk_england_london_lords_hotel: 0.603608323752 0.2
+can_montreal_hotel_de_la_couronne: 0.190426092276 0.32
+uk_england_london_rose_court_hotel: 0.769661171545 0.35
+uk_england_london_royal_norfolk_hotel: 0.270163941292 0.23
+uk_england_london_the_crescent_hotel: 0.714515200382 0.0
+china_beijing_grand_millennium_beijing: 0.243252382111 0.5
+uk_england_london_palm_hotel: 0.192334829534 0.2
+can_quebec_montreal_hotel_st_paul: 1.41645884748 0.2
+usa_san francisco_beresford_arms: 0.791665532226 0.25
+uk_england_london_travelodge_london_tower_bridge: 0.732005713286 0.15
+usa_new york city_hotel_31: 1.40287807877 0.25
+china_beijing_guangzhou_hotel: 0.727316856087 0.35
+uk_england_london_the_connaught: 0.755491139956 0.5
+usa_new york city_eurostars_wall_street: 0.246161296593 0.35
+india_new delhi_hotel_rak_international: 0.18828348913 0.35
+uk_england_london_tudor_court_hotel: 0.650870350552 0.4
+uk_england_london_fox_club: 0.680675610935 0.35
+are_dubai_riviera_hotel: 0.264333644347 0.35
+uk_england_london_citadines_london_barbican: 0.595301104468 0.35
+usa_nevada_las-vegas_wild_wild_west_gambling_hall_and_hotel: 0.271097327559 0.2
+can_quebec_montreal_grand_plaza_montreal_centre_ville: 0.851395785582 0.25
+india_new delhi_the_lalit_new_delhi: 0.530678255544 0.2
+uk_england_london_comfort_hotel_finchley: 0.63015926033 0.5
+uk_england_london_space_apart_hotel: 1.01673305367 0.5
+uk_england_london_lidos_hotel: 0.222478547629 0.35
+usa_new york city_affinia_shelburne: 1.23083376736 0.2
+are_dubai_radisson_blu_hotel_dubai_deira_creek: 0.782822658078 0.0
+uk_england_london_the_norfolk_towers_hotel: 0.564382597674 0.5
+usa_nevada_las-vegas_the_suites: 0.155190058642 0.0
+usa_nevada_las-vegas_budget_suites_of_america_tropicana_i_15: 0.126155810935 0.2
+uk_england_london_best_western_victoria_palace: 0.572888979541 0.2
+usa_new york city_duane_street_hotel: 0.58571863596 0.5
+can_montreal_le_square_phillips_hotel_suites: 1.40571043614 0.3
+usa_nevada_las-vegas_budget_suites_of_america_north_rancho_drive: 0.171139078436 0.62
+uk_england_london_quality_hotel_wembley: 0.265794147887 0.25
+usa_new york city_the_sherry_netherland_hotel: 0.661316502391 0.35
+can_montreal_l_appartement_hotel: 0.627167512939 0.35
+usa_nevada_las-vegas_grandview_at_las_vegas: 0.900347982295 0.23
+uk_england_london_jumeirah_carlton_tower: 0.709161331861 0.5
+usa_nevada_las-vegas_courtyard_by_marriott_las_vegas_south: 0.260632945888 0.2
+uk_england_london_ascott_mayfair: 0.23268906692 0.5
+uk_england_london_the_bridge_hotel: 0.703294278725 0.35
+usa_san francisco_courtyard_san_francisco_downtown: 0.977572873614 0.35
+usa_illinois_chicago_best_western_grant_park_hotel: 0.686160967291 0.35
+are_dubai_towers_rotana_dubai: 0.25839201587 0.0
+china_shanghai_the_westin_bund_center: 0.53252211375 0.0
+can_quebec_montreal_w_montreal: 1.41511186733 0.35
+usa_san francisco_hotel_metropolis: 1.06496450392 0.35
+india_new delhi_hotel_singh_sons: 0.619594871009 0.0
+usa_new york city_renaissance_new_york_hotel_times_square: 1.32191190107 0.1
+china_beijing_holiday_inn_chang_an_west: 0.254978023571 0.2
+usa_nevada_las-vegas_silverton_hotel_and_casino: 0.537490973442 0.5
+are_dubai_al_maha_desert_resort: 1.47711319816 0.36
+uk_england_london_warwick_house: 0.251098360431 0.35
+usa_illinois_chicago_hotel_indigo_chicago_downtown_gold_coast: 1.1556830993 0.35
+uk_england_london_crowne_plaza_london_st_james: 1.0167095478 0.25
+china_beijing_china_world_hotel: 0.87413025249 0.4
+india_new delhi_hotel_vikram: 0.251096245791 0.5
+can_montreal_le_meridien_versailles: 0.797195120862 0.5
+uk_england_london_grange_lodge_hotel: 0.717281538171 0.1
+uk_england_london_regency_hotel_nottingham_place: 0.216213659032 0.25
+uk_england_london_dolphin_house: 0.776651387382 0.05
+usa_new york city_comfort_inn_chelsea: 0.51983399286 0.3
+india_new delhi_hotel_mohan_international: 0.125553350704 0.5
+are_dubai_dusit_thani_dubai: 0.23767610041 0.2
+usa_san francisco_verona: 0.62530865739 0.25
+usa_new york city_the_hotel_at_times_square: 0.790769836128 0.2
+uk_england_london_plaza_on_the_river_club_and_residence: 1.18127715701 0.32
+usa_nevada_las-vegas_embassy_suites_hotel_convention_center_paradise_road_las_vegas: 0.275673110358 0.35
+usa_nevada_las-vegas_the_resort_on_mount_charleston: 0.840653950113 0.23
+uk_england_london_millennium_knightsbridge_hotel: 0.560895275772 0.0
+can_montreal_hotel_le_crystal: 1.05913219778 0.5
+uk_england_london_thistle_city_barbican: 0.93846354533 0.2
+india_new delhi_the_manor: 0.220027841864 0.2
+usa_san francisco_best_western_the_hotel_california: 0.855928841778 0.25
+are_dubai_ibis_mall_of_the_emirates: 0.173569889245 0.15
+usa_illinois_chicago_doubletree_hotel_chicago_magnificent_mile: 0.278870185531 0.25
+usa_new york city_the_carlton: 1.32378453876 0.35
+usa_new york city_moderne_hotel: 1.2633615941 0.5
+usa_nevada_las-vegas_holiday_inn_express_las_vegas_nellis: 0.197944569128 0.35
+are_dubai_versailles_hotel: 0.244723544107 0.35
+usa_new york city_the_marmara_manhattan_luxury_hotel_residence: 0.608158804123 0.4
+usa_new york city_the_westin_new_york_at_times_square: 0.972683999901 0.35
+uk_england_london_the_cumberland: 1.05506039455 0.35
+uk_england_london_hesperia_london_victoria_hotel: 0.907836594093 0.35
+china_shanghai_holiday_inn_vista_shanghai: 0.614028573473 0.2
+china_beijing_new_world_hotel_jing_guang: 0.224826191885 0.25
+usa_new york city_the_mark: 0.212292161234 0.2
+china_shanghai_oriental_riverside_hotel: 0.629977755421 0.5
+uk_england_london_travelodge_city_road: 0.990116961253 0.5
+uk_england_london_swissotel_the_howard: 1.21896932863 0.35
+uk_england_london_shaftesbury_hyde_park_international: 0.631541829171 0.2
+uk_england_london_crown_moran_hotel: 0.267899838607 0.0
+china_beijing_doubletree_by_hilton_beijing: 0.262803646548 0.5
+uk_england_london_the_shaftesbury_kensington: 1.16300014109 0.0
+usa_new york city_the_time: 1.16757210212 0.2
+are_dubai_landmark_hotel: 0.259895998386 0.2
+china_beijing_city_hotel_beijing: 0.215130662563 0.5
+uk_england_london_premier_inn_london_putney_bridge: 0.269219950934 0.3
+china_shanghai_new_asia_hotel: 0.258092433921 0.62
+uk_england_london_westpoint_hotel: 0.881463817955 0.25
+are_dubai_vendome_plaza_hotel: 0.126592047215 0.35
+usa_san francisco_chancellor_hotel_on_union_square: 0.925728724729 0.35
+china_beijing_palm_springs_beijing_marriott_executive_apartments: 0.247919539959 0.23
+are_dubai_copthorne_hotel_dubai: 0.250270122816 0.5
+uk_england_london_the_hyde_park_towers_hotel: 0.794642203584 0.2
+uk_england_london_annexe_hotel: 0.209251597203 0.5
+usa_new york city_casablanca_hotel: 0.903094170263 0.35
+can_montreal_hotel_du_manoir_saint_denis: 0.220947203446 0.35
+uk_england_london_mad_hatter_hotel: 0.62158470098 0.35
+are_dubai_holiday_inn_express_dubai_safa_park: 0.246854354056 0.0
+uk_england_london_garden_court_hotel: 0.610947955188 0.0
+uk_england_london_lindal_hotel: 0.211143116117 0.35
+uk_england_london_umi_london: 0.925415528087 0.35
+can_montreal_le_cantlie_suites_hotel: 0.966678133822 0.0
+uk_england_london_the_capital_hotel: 0.616313484617 0.1
+usa_illinois_chicago_abbott_hotel: 0.189657037181 0.5
+china_shanghai_hengshan_picardie_hotel: 0.685129366821 0.5
+usa_new york city_san_carlos_hotel: 0.824396158078 0.7
+china_shanghai_citadines_apart_hotel_jinqiao: 0.261715997306 0.5
+india_new delhi_ramada_plaza_new_delhi: 0.209401942202 0.5
+usa_san francisco_hotel_triton_a_kimpton_hotel: 0.787876026103 0.5
+uk_england_london_premier_inn_london_kensington: 0.763482235661 0.35
+china_shanghai_howard_johnson_business_club_hotel_shanghai: 0.153972411743 0.5
+uk_england_london_travelodge_london_wimbledon: 0.164227357232 0.3
+india_new delhi_rockland_inn: 0.100016392537 0.5
+uk_england_london_51_buckingham_gate_taj_suites_and_residences: 0.636232971944 0.5
+india_new delhi_hotel_55: 0.595584210737 0.5
+usa_new york city_le_parker_meridien: 1.159908245 0.5
+usa_nevada_las-vegas_best_western_parkview_inn: 0.202466926222 0.66
+uk_england_london_ramada_hyde_park: 0.550069078314 0.5
+usa_new york city_best_western_hospitality_house: 0.990421588264 0.5
+uk_england_london_royal_eagle_hotel: 0.686679268722 0.5
+usa_san francisco_fitzgerald_hotel_union_square: 0.563949783095 0.5
+india_new delhi_rahul_palace_hotel: 0.225030587279 0.0
+uk_england_london_the_royal_cambridge_hotel: 0.2201431504 0.5
+uk_england_london_best_western_lodge_hotel_putney: 1.07656755745 0.7
+india_new delhi_the_imperial: 0.867418495097 0.3
+are_dubai_ramee_guestline_hotel_apartments_ii: 0.135343760759 0.2
+usa_san francisco_sw_hotel: 0.629413231457 0.5
+uk_england_london_bakers_hotel: 0.606905795597 0.5
+can_quebec_montreal_hotel_terrasse_royale: 0.25759355578 0.26
+china_beijing_the_regent_beijing: 0.9862272376 0.5
+usa_illinois_chicago_carlton_inn_midway: 0.671728267055 0.4
+china_beijing_hwa_apartment_hotel: 0.263704308286 0.5
+can_montreal_hotel_de_la_montagne: 1.14486836494 0.5
+usa_new york city_thirty_thirty_hotel: 1.02128671592 0.5
+china_shanghai_the_bund_hotel: 0.589134284077 0.5
+usa_nevada_las-vegas_bellagio_las_vegas: 1.52891757197 0.5
+usa_san francisco_hotel_kabuki: 1.14437999868 0.5
+usa_illinois_chicago_chicago_s_essex_inn: 0.648905832467 0.5
+uk_england_london_holland_court_hotel: 0.247777961008 0.5
+usa_nevada_las-vegas_terrible_s_hotel_casino: 0.627266029415 0.6
+uk_england_london_manor_court_hotel: 0.188013240796 0.5
+usa_illinois_chicago_james_chicago: 1.43729021295 0.5
+uk_england_london_grange_holborn_hotel: 1.28432111516 0.5
+usa_new york city_affinia_manhattan: 1.25602852911 0.5
+are_dubai_zagy_arabian_suites: 0.15856124542 0.5
+usa_san francisco_hotel_abri_union_square_a_larkspur_collection_hotel: 0.933267608166 0.5
+uk_england_london_the_landmark_london: 1.43488483507 0.62
+uk_england_london_lancaster_court_hotel: 0.189459551633 0.5
+are_dubai_capitol_hotel: 0.171416172393 0.5
+usa_new york city_courtyard_by_marriott_new_york_manhattan_upper_east_side: 0.271088280639 0.5
+usa_san francisco_oasis_inn: 0.253234618728 0.5
+usa_san francisco_crescent_san_francisco: 0.750503207763 0.2
+are_dubai_premier_inn: 0.173497709705 0.6
+uk_england_london_marlin_apartments_empire_square: 0.604605081183 0.5
+are_dubai_avari_dubai_hotel: 0.260596528908 0.5
+china_beijing_days_inn_joiest_beijing: 0.60829923581 0.5
+china_beijing_grand_hyatt_beijing: 0.628851335724 0.6
+uk_england_london_notting_hill_hotel: 0.211998597277 0.5
+usa_new york city_the_carlyle_a_rosewood_hotel: 0.749938616357 0.2
+china_beijing_orange_hotel_beijing_asia_games_village: 0.258019305854 0.5
+uk_england_london_the_stafford_hotel: 0.263237153139 0.5
+india_new delhi_hotel_regent_continental: 0.215621373088 0.6
+usa_san francisco_encore_express_hotel: 0.138252528926 0.5
+uk_england_london_the_inn_at_kew_gardens_kew_gardens_hotel: 0.247761958427 0.5
+usa_san francisco_hotel_cosmo: 0.770519821179 0.5
+usa_new york city_the_plaza: 0.655971832235 0.3
+uk_england_london_london_elizabeth_hotel: 1.09744009389 0.35
+uk_england_london_best_western_corona: 0.858632500127 0.2
+can_montreal_hotel_le_prestige: 0.772080223651 0.5
+usa_illinois_chicago_park_hyatt_chicago: 1.34902437397 0.5
+uk_england_london_kensington_west_hotel: 0.729606658111 0.5
+usa_illinois_chicago_crowne_plaza_chicago_the_metro: 0.689227852539 0.6
+usa_nevada_las-vegas_santa_fe_station_hotel: 0.241864421721 0.5
+uk_england_london_gresham_hotel_london: 0.558603585383 0.5
+usa_nevada_las-vegas_best_western_mccarran_inn: 0.602970758457 0.5
+uk_england_london_holiday_villa_london: 0.695358203774 0.5
+india_new delhi_ambassador_hotel: 0.263224653022 0.5
+uk_england_london_holiday_inn_express_london_wimbledon_south: 0.261242627614 0.68
+are_dubai_lords_hotel: 0.246383944316 0.5
+uk_england_london_hotel_california: 0.263330034809 0.5
+uk_england_london_globetrotter_inn: 0.27522442769 0.7
+are_dubai_admiral_plaza_hotel: 0.620455410649 0.5
+uk_england_london_the_ivy_house_hotel: 0.12517586933 0.5
+can_quebec_montreal_hotel_auberge_universel: 0.246993093371 0.5
+uk_england_london_park_plaza_sherlock_holmes_london: 1.18944130697 0.0
+uk_england_london_holiday_inn_express_london_victoria: 0.586159575593 0.3
+uk_england_london_ruskin: 0.236110306605 0.7
+uk_england_london_springfield_hotel_london: 0.197629380184 0.5
+india_new delhi_claremont_hotel_and_convention_centre: 0.159734584826 0.38
+usa_san francisco_castle_inn: 1.18122606172 0.7
+usa_new york city_club_quarters_downtown: 1.20690949548 0.5
+india_new delhi_hotel_alka: 0.656367742708 0.5
+usa_san francisco_surf_motel: 0.137164479165 0.5
+uk_england_london_novotel_london_waterloo: 0.876026175716 0.5
+uk_england_london_the_bermondsey_square_hotel: 0.265229349598 0.5
+usa_nevada_las-vegas_signature_at_mgm_grand: 1.36878871867 0.5
+uk_england_london_radisson_sas_hotel_london_stansted_airport: 0.2702338834 0.5
+are_dubai_tamani_hotel_marina: 0.644645795836 0.5
+uk_england_london_dylan_house: 0.236284551842 0.5
+usa_san francisco_star_motel: 0.226866559368 0.7
+china_shanghai_ruitai_jingan_hotel: 0.272059681231 0.5
+china_beijing_crowne_plaza_sun_palace_beijing: 0.258365681518 0.5
+usa_nevada_las-vegas_motel_6_las_vegas_boulder_highway: 0.102350291682 0.5
+are_dubai_dubai_nova_hotel: 0.21321117049 0.2
+uk_england_london_diplomat_hotel: 0.723949092062 0.5
+china_beijing_capital_hotel_beijing: 0.716810656579 0.5
+usa_san francisco_hotel_whitcomb: 1.00675358865 0.5
+usa_illinois_chicago_belden_stratford_hotel: 0.263618230353 0.5
+uk_england_london_hyde_park_suites: 0.618364560369 0.5
+can_montreal_hotel_maritime_plaza: 0.730867704176 0.5
+usa_new york city_la_quinta_manhattan: 0.603952950781 0.2
+usa_new york city_carlton_arms: 0.827755055935 0.5
+usa_new york city_wall_street_inn: 1.15419127584 0.36
+uk_england_london_cardiff_hotel: 0.798394232259 0.3
+usa_illinois_chicago_dana_hotel_spa: 1.37619364799 0.5
+can_montreal_hotel_auberge_universel: 0.246993093371 0.5
+usa_nevada_las-vegas_extended_stayamerica_las_vegas_valley_view: 0.63878327473 0.5
+china_shanghai_regal_international_east_asia_hotel: 0.268855668924 0.71
+are_dubai_habtoor_grand_resort_spa: 0.565153282378 0.5
+uk_england_london_henley_house_hotel: 0.263407966696 0.5
+china_beijing_prime_hotel: 0.59538571104 0.5
+usa_illinois_chicago_buckingham_athletic_club: 0.786457881258 0.4
+usa_san francisco_hilton_san_francisco_fisherman_s_wharf: 0.555480157176 0.58
+are_dubai_coral_oriental_dubai: 0.2609425222 0.5
+usa_new york city_the_maritime_hotel: 0.863125254052 0.5
+usa_nevada_las-vegas_clarion_emerald_springs: 0.215384301864 0.5
+uk_england_london_earls_court_gardens_hotel: 0.221171148751 0.5
+uk_england_london_comfort_inn_kings_cross: 0.273252297559 0.5
+uk_england_london_millennium_mayfair_hotel: 1.09766693933 0.0
+can_quebec_montreal_le_saint_malo: 1.08830203616 0.5
+uk_england_london_opulence_hotel: 0.238640268358 0.2
+uk_england_london_premier_west_hotel: 0.237438105785 0.5
+india_new delhi_ashok_country_resort: 0.268621458634 0.35
+china_beijing_holiday_inn_beijing_lido: 0.269331409831 0.4
+china_beijing_commune_by_the_great_wall_kempinski: 1.04507270895 0.2
+china_beijing_mercure_wanshang_beijing: 0.169961859316 0.5
+uk_england_london_grim_s_dyke_hotel: 0.220737433609 0.3
+uk_england_london_the_beauchamp: 1.23904489372 0.59
+uk_england_london_apex_london_wall_hotel: 0.250683830236 0.7
+usa_nevada_las-vegas_budget_suites_of_america_stardust_road: 0.127300610258 0.5
+india_new delhi_samrat_hotel: 0.752647987795 0.2
+china_shanghai_central_view_suites: 0.159071642227 0.5
+can_quebec_montreal_l_appartement_hotel: 0.627167512939 0.5
+uk_england_london_abbey_court_hyde_park: 0.268955945524 0.2
+usa_illinois_chicago_amalfi_hotel_chicago: 1.2818518127 0.5
+usa_nevada_las-vegas_atrium_suites_hotel_las_vegas: 0.254848346662 0.7
+india_new delhi_hotel_sunrise: 0.223750553976 0.5
+are_dubai_savoy_suites: 0.166217070176 0.5
+usa_san francisco_the_metro_hotel: 0.951996583393 0.5
+uk_england_london_the_old_bell: 0.69334070463 0.45
+uk_england_london_k_west_hotel_spa: 1.18113586061 0.38
+usa_nevada_las-vegas_econo_lodge: 0.213206658613 0.5
+india_new delhi_hotel_express_66: 0.174221232227 0.35
+are_dubai_pacific_hotel: 0.624808267818 0.32
+can_montreal_hotel_plateau_royale: 0.643133407262 0.3
+uk_england_london_exhibition_court_hotel_3: 0.124853681639 0.2
+uk_england_london_travelodge_london_marylebone: 0.559129087156 0.5
+uk_england_london_exhibition_court_hotel_4: 0.217975137034 0.5
+uk_england_london_chiswick_hotel: 0.225149114994 0.7
+china_shanghai_hotel_ibis_shanghai_lianyang: 0.213968640531 0.2
+can_montreal_marriott_residence_inn_montreal_airport: 0.234999050037 0.5
+can_quebec_montreal_holiday_inn_montreal_midtown: 0.270829571257 0.4
+can_montreal_best_western_ville_marie_hotel_suite: 0.852969136357 0.5
+can_montreal_econo_lodge_downtown: 0.212938530595 0.2
+are_dubai_flora_creek_hotel_apartments: 0.253523786153 0.5
+usa_nevada_las-vegas_treasure_island_ti_hotel_casino: 1.21393229816 0.5
+usa_illinois_chicago_thewit_hotel: 1.19704801583 0.1
+are_dubai_the_monarch_dubai: 0.222436810683 0.0
+uk_england_london_ivanhoe_suite_hotel: 0.217867949467 0.5
+uk_england_london_innkeeper_s_lodge_snaresbrook: 0.246073201711 0.5
+uk_england_london_hendon_hall: 0.172825107004 0.5
+uk_england_london_le_meridien_piccadilly: 0.91085011929 0.35
+usa_san francisco_hotel_griffon: 1.50567228938 0.35
+uk_england_london_melbourne_house_hotel: 0.265471685633 0.5
+usa_san francisco_the_ritz_carlton: 1.30447500706 0.5
+usa_new york city_hilton_garden_inn_tribeca: 0.625043633476 0.5
+uk_england_london_centaur_hotel: 0.194037937383 0.5
+usa_san francisco_columbus_motor_inn: 0.537025550706 0.5
+are_dubai_landmark_plaza_hotel: 0.260476505302 0.1
+are_dubai_holiday_inn_dubai_al_barsha: 0.259176843264 0.5
+usa_san francisco_touchstone_hotel: 0.702669478521 0.2
+usa_nevada_las-vegas_crestwood_suites_las_vegas_flamingo: 0.229023089986 0.6
+usa_san francisco_holiday_inn_san_francisco_golden_gateway: 0.633818728078 0.35
+can_montreal_hotel_champ_de_mars: 1.3281065515 0.5
+usa_san francisco_san_francisco_days_inn_downtown_civic_center_area: 0.233074439875 0.5
+usa_san francisco_twin_peaks_hotel: 0.213058683563 0.5
+uk_england_london_the_ritz_london: 1.25833392157 0.3
+india_new delhi_maharani_guesthouse: 0.223623569246 0.59
+usa_nevada_las-vegas_boulder_station_hotel_and_casino: 0.596699299739 0.5
+usa_illinois_chicago_courtyard_chicago_midway_airport: 0.238027497661 0.7
+china_shanghai_ruijin_hotel: 0.759294031373 0.5
+uk_england_london_albany_hotel_london: 0.223137420191 0.23
+uk_england_london_garden_view_hotel: 0.265233267119 0.35
+uk_england_london_regency_house: 0.827552847896 0.5
+uk_england_london_the_euro_hotel: 0.586395742727 0.5
+can_quebec_montreal_holiday_inn_select_montreal_centre_ville: 0.577839653183 0.2
+china_beijing_oriental_garden_hotel: 0.226407795604 0.4
+uk_england_london_averard_hotel: 0.233719864207 0.2
+can_quebec_montreal_clarion_hotel_suites_downtown: 0.564268534882 0.5
+uk_england_london_queens_hotel_crystal_palace: 0.518813942441 0.1
+are_dubai_royal_beach_hotel_resort: 0.16549353079 0.5
+usa_nevada_las-vegas_motel_6: 0.594000132322 0.2
+india_new delhi_hotel_good_palace: 0.168065499967 0.3
+usa_nevada_las-vegas_sahara_westwood_hotel: 0.221284443417 0.5
+uk_england_london_wellington: 0.648678710694 0.15
+usa_new york city_hampton_inn_madison_square_garden: 1.048657141 0.2
+are_dubai_le_meridien_residence_deira: 0.602274511658 0.35
+uk_england_london_54_boutique_hotel: 0.574415904075 0.05
+uk_england_london_the_gore_hotel: 1.39194443575 0.45
+uk_england_london_grantly_hotel: 0.26291977571 0.7
+india_new delhi_pablas_international_hotel: 0.184392688768 0.6
+uk_england_london_the_lennox_hotel: 0.211932760543 0.5
+uk_england_london_best_western_mostyn_hotel: 0.957313365029 0.5
+are_dubai_starmetro_deira_hotel_apartments: 0.136964897495 0.29
+uk_england_london_dukes_hotel: 0.913227757379 0.35
+usa_new york city_hilton_garden_inn_chelsea: 0.935491615801 0.1
+can_montreal_hotel_terrasse_royale: 0.25759355578 0.5
+are_dubai_sheraton_deira_hotel: 0.75161163144 0.0
+can_montreal_hotel_st_paul: 1.41645884748 0.0
+uk_england_london_grove_hill_hotel: 0.135637652533 0.35
+india_new delhi_hotel_palace_heights: 0.271993318424 0.0
+usa_new york city_astor_on_the_park: 1.05117802057 0.0
+can_montreal_auberge_le_pomerol: 0.919184818726 0.4
+uk_england_london_the_halkin: 1.31837118641 0.5
+uk_england_london_buckingham_hotel: 0.807983179844 0.2
+usa_nevada_las-vegas_four_queens_hotel_and_casino: 0.880554553062 0.0
+are_dubai_al_manzil_hotel: 1.04820106377 0.15
+usa_nevada_las-vegas_rodeway_inn_convention_center: 1.03391985297 0.5
+are_dubai_media_rotana_barsha_dubai: 0.709150102927 0.5
+uk_england_london_york_hotel: 0.691988506926 0.5
+usa_san francisco_baldwin_hotel: 0.704107244671 0.6
+china_beijing_hotel_ibis_beijing_sanyuan: 0.226387487042 0.25
+are_dubai_residence_and_spa_at_one_and_only_royal_mirage: 0.701684465806 0.5
+usa_illinois_chicago_hilton_chicago_o_hare_airport: 0.971455866504 0.5
+usa_nevada_las-vegas_greek_isles_hotel_casino: 0.645686442281 0.5
+china_shanghai_holiday_inn_downtown_shanghai: 0.269729426204 0.0
+uk_england_london_the_gainsborough_hotel: 0.710053633385 0.0
+india_new delhi_hotel_classic: 0.249202792559 0.25
+uk_england_london_elizabeth_hotel: 0.717829098853 0.32
+are_dubai_grand_midwest_hotel_apartments: 0.258763586044 0.2
+can_montreal_hotel_le_saint_andre: 0.228928674851 0.5
+usa_illinois_chicago_super_8_chicago_o_hare_south: 0.250132866452 0.0
+uk_england_london_travelodge_chessington_tolworth: 0.242172518968 0.5
+can_montreal_opus_hotel_montreal: 1.43242308998 0.2
+uk_england_london_glenlyn_guest_house: 0.632425115504 0.0
+are_dubai_city_tower_hotel_aparments: 0.167894851477 0.32
+usa_illinois_chicago_marriott_chicago_midway: 0.231291376787 0.0
+uk_england_london_premier_inn_london_edgware: 0.234214948001 0.2
+usa_new york city_millennium_hotel_broadway: 1.12608996349 0.15
+usa_nevada_las-vegas_las_vegas_club_36: 0.935779152458 0.2
+uk_england_london_rasool_court_hotel: 0.589227494528 0.0
+usa_san francisco_edward_ii_inn_and_suites: 0.877648619871 0.2
+china_shanghai_house_inn_shanghai_caobao_road: 0.161561742874 0.35
+are_dubai_regent_palace_hotel: 0.631002752471 0.35
+china_beijing_the_st_regis_beijing: 0.558493852391 0.2
+uk_england_london_park_lane_mews_hotel: 0.756027469356 0.35
+uk_england_london_ambassadors_hotel: 0.266868180484 0.5
+usa_nevada_las-vegas_holiday_inn_express_las_vegas_south: 0.562558422297 0.25
+are_dubai_number_one_tower_suites: 0.100659030452 0.0
+can_quebec_montreal_hotel_montreal_centrale: 0.19917673573 0.2
+are_dubai_tulip_inn_fz_llc: 0.135455226858 0.35
+india_new delhi_silver_ferns_hotel: 0.166817615296 0.6
+china_beijing_kellys_courtyard: 0.137315080845 0.25
+india_new delhi_the_muse_hotel: 0.150221902571 0.05
+usa_new york city_greenwich_hotel: 0.914701419673 0.5
+usa_new york city_hilton_garden_inn_new_york_west_35th: 0.656136587001 0.25
+can_montreal_gouverneur_hotel_place_dupuis: 0.57278865898 0.45
+usa_nevada_las-vegas_circus_circus_hotel_casino_las_vegas: 0.769101113805 0.5
+uk_england_london_the_grand_at_trafalgar_square: 1.06594935779 0.0
+india_new delhi_the_hans_new_delhi: 0.229837156284 0.15
+can_montreal_chateau_versailles: 1.12242918313 0.5
+are_dubai_hyatt_regency_dubai: 0.958081361171 0.4
+uk_england_london_apex_city_of_london: 1.23550506456 0.0
+usa_san francisco_hotel_mark_twain: 0.691777588522 0.0
+uk_england_london_warwick_hotel: 0.247116692347 0.5
+china_shanghai_ramada_zhabei: 0.238398761143 0.5
+china_beijing_park_hyatt_beijing: 0.239690524147 0.2
+can_quebec_montreal_opus_hotel_montreal: 1.43242308998 0.5
+usa_nevada_las-vegas_travelodge_ambassador_strip_inn: 0.219823141492 0.2
+usa_new york city_the_new_york_helmsley: 0.789825833734 0.2
+can_montreal_days_hotel_and_conference_center_montreal_metro: 0.219041426954 0.3
+can_montreal_hotel_eureka: 0.22851719253 0.4
+usa_new york city_renaissance_new_york_hotel_57: 0.262182471536 0.0
+usa_san francisco_king_george_hotel: 1.08784080352 0.2
+china_beijing_gloria_plaza_hotel_beijing: 0.261250665112 0.5
+uk_england_london_thistle_bloomsbury_park: 1.00480123001 0.1
+uk_england_london_hotel_ibis_london_docklands: 0.260059056778 0.25
+can_quebec_montreal_auberge_bonaparte: 1.53633721831 0.5
+china_beijing_marco_polo_parkside_hotel: 0.2546277265 0.2
+can_quebec_montreal_hyatt_regency_montreal: 1.23021062397 0.5
+india_new delhi_jaypee_vasant_continental: 0.268500241206 0.35
+usa_new york city_hotel_giraffe: 1.54076781977 0.5
+usa_nevada_las-vegas_desert_paradise_resort: 0.553716784934 0.25
+uk_england_london_the_goring: 0.707816641367 0.6
+uk_england_london_carlton_hotel_london: 0.226769087946 0.5
+usa_illinois_chicago_days_inn_chicago: 0.568190340545 0.7
+usa_san francisco_ocean_park_motel: 0.732252753193 0.29
+are_dubai_hawthorn_hotel_deira: 0.660136094237 0.2
+uk_england_london_blooms_town_house_hotel: 0.222548295867 0.2
+usa_new york city_west_57th_street_by_hilton_club: 0.241729990766 0.25
+india_new delhi_the_florence_inn: 0.269059600239 0.5
+usa_new york city_the_london_nyc: 1.05904502907 0.1
+usa_illinois_chicago_super_8_chicago_loyola_university: 0.241711022943 0.5
+uk_england_london_lisa_court_hotel: 0.19315003622 0.25
+are_dubai_ramada_continental_hotel: 0.251582565368 0.2
+can_quebec_montreal_days_inn_montreal_downtown: 0.601159563947 0.35
+uk_england_london_lancaster_london: 0.711012215053 0.25
+usa_new york city_eastgate_tower: 0.746105700116 0.2
+uk_england_london_holiday_inn_express_london_park_royal: 0.270112888064 0.35
+can_montreal_hotel_ruby_foo_s: 0.274297850235 0.2
+uk_england_london_ibis_london_euston_st_pancras: 0.647903530174 0.25
+are_dubai_novotel_deira_city_centre: 0.269232757414 0.3
+china_beijing_raffles_beijing_hotel: 0.694169347597 0.25
+india_new delhi_hotel_tara_palace: 0.268565183419 0.0
+uk_england_london_novotel_london_greenwich: 0.572090747936 0.0
+are_dubai_comfort_inn_hotel: 0.25864923558 0.29
+usa_illinois_chicago_holiday_inn_express_chicago_midway_airport: 0.213345438669 0.35
+usa_illinois_chicago_omni_chicago_hotel: 1.39395555542 0.25
+usa_nevada_las-vegas_emerald_suites_tropicana: 0.250301976321 0.25
+uk_england_london_belmont_astoria_hotels: 0.216639547238 0.0
+usa_san francisco_sonoma_inn: 0.121483922059 0.35
+usa_san francisco_larkspur_hotel_union_square: 1.19596453102 0.2
+can_quebec_montreal_hotel_ruby_foo_s: 0.274297850235 0.35
+usa_new york city_the_herald_square_hotel: 1.17608412141 0.0
+usa_new york city_wolcott_hotel: 0.961543077475 0.2
+usa_san francisco_sheraton_fisherman_s_wharf_hotel: 1.3238464344 0.25
+can_montreal_residence_inn_montreal_westmount: 0.966098198891 0.32
+china_beijing_the_peninsula_beijing: 0.822059052143 0.35
+uk_england_london_park_international_hotel: 0.768549925003 0.2
+usa_nevada_las-vegas_mirage_hotel_casino: 0.821794967093 0.3
+are_dubai_desert_palm_resort_spa: 0.828742051076 0.2
+usa_san francisco_sir_francis_drake_hotel_a_kimpton_hotel: 1.45087717991 0.0
+uk_england_london_astons_apartments: 0.268329866879 0.1
+india_new delhi_yuvraj_deluxe_hotel: 0.125896626999 0.0
+uk_england_london_craven_gardens_hotel: 0.696262525898 0.5
+uk_england_london_luna_simone_hotel: 0.931029060055 0.35
+uk_england_london_shakespeare_hotel: 0.646106148166 0.5
+uk_england_london_the_tower: 1.27503009853 0.25
+uk_england_london_the_maranton_house_hotel: 0.266512431538 0.5
+usa_illinois_chicago_the_fisher_building: 0.126721169144 0.0
+india_new delhi_jaypee_siddharth: 0.253812451978 0.15
+uk_england_london_etap_hotel_london_city_airport: 0.224313489259 0.5
+usa_illinois_chicago_oakwood_apartments: 0.232545169337 0.2
+are_dubai_mina_a_salam_at_madinat_jumeirah: 1.3222479336 0.5
+usa_new york city_the_shoreham: 1.10047568182 0.5
+china_beijing_hilton_beijing_wangfujing: 1.16578046058 0.25
+usa_san francisco_nob_hill_hotel: 1.33752907151 0.2
+china_shanghai_regal_shanghai_east_asia_hotel: 0.246468985166 0.2
+usa_new york city_park_central: 1.08251449498 0.15
+usa_nevada_las-vegas_comfort_inn: 0.265301609998 0.5
+usa_new york city_hotel_elysee: 1.51385299987 0.5
+uk_england_london_king_solomon_hotel: 0.581364444209 0.23
+can_montreal_sheraton_le_centre_montreal_hotel: 1.23472938113 0.0
+usa_illinois_chicago_seneca_hotel: 1.19345449343 0.5
+uk_england_london_the_red_lion_hotel_london: 0.252679996934 0.25
+uk_england_london_travelodge_london_barking: 0.211730343923 0.15
+uk_england_london_harrington_hall_hotel: 0.799899997712 0.5
+usa_new york city_bentley_hotel: 1.17031833147 0.2
+uk_england_london_51_kensington_court_limited: 0.247836267064 0.25
+can_quebec_montreal_sheraton_le_centre_montreal_hotel: 1.23472938113 0.0
+usa_san francisco_america_s_best_inn_san_francisco: 0.241690127665 0.0
+uk_england_london_blair_victoria_hotel: 0.250868114441 0.5
+can_quebec_montreal_le_place_d_armes_hotel_suites: 1.3413887782 0.25
+usa_new york city_royalton_hotel_new_york_city: 1.21997550093 0.25
+can_quebec_montreal_travelodge_montreal_centre: 0.730405280088 0.5
+uk_england_london_georgian_house_hotel: 0.830354424344 0.0
+usa_san francisco_palace_hotel: 1.10062379556 0.5
+usa_san francisco_prescott_hotel_a_kimpton_hotel: 1.25721269659 0.29
+india_new delhi_hotel_broadway: 0.227767236149 0.23
+usa_new york city_milford_plaza_hotel: 0.993083820538 0.25
+china_shanghai_lansheng_hotel_shanghai: 0.150072770227 0.25
+are_dubai_novotel_world_trade_centre_dubai: 0.576902670318 0.0
+usa_new york city_hotel_17: 1.29469473831 0.2
+uk_england_london_dalmacia_hotel: 0.653424763263 0.5
+uk_england_london_majestic: 0.603233942218 0.2
+uk_england_london_radisson_edwardian_mountbatten_hotel: 1.09239087037 0.5
+uk_england_london_the_fox_goose_hotel: 0.272354146359 0.0
+usa_san francisco_hotel_palomar_san_francisco_a_kimpton_hotel: 1.33740377244 0.3
+uk_england_london_brunel_hotel: 0.259671394948 0.1
+usa_new york city_empire_hotel: 1.37513753557 0.2
+china_shanghai_radisson_plaza_xing_guo: 0.256870848397 0.2
+china_shanghai_gallery_suites: 0.200245075442 0.5
+uk_england_london_thistle_westminster: 0.681388921587 0.15
+usa_nevada_las-vegas_viva_las_vegas_villas: 0.135028861241 0.1
+china_shanghai_rendezvous_merry_hotel_shanghai: 0.218394200672 0.25
+india_new delhi_shanti_home: 1.04250313314 0.2
+china_beijing_motel_268_beijing_wangfujing: 0.233195352722 0.0
+uk_england_london_premier_inn_london_hammersmith: 0.646164577536 0.0
+usa_nevada_las-vegas_club_de_soleil: 0.273243391774 0.1
+uk_england_london_romanos_hotel: 0.198107182151 0.05
+uk_england_london_shaftesbury_metropolis_london_hyde_park: 0.723708699609 0.0
+usa_new york city_414_hotel: 1.05723983832 0.35
+are_dubai_pearl_residence: 0.23866156007 0.35
+uk_england_london_president_hotel: 0.709312105346 0.2
+uk_england_london_eleven_cadogan_gardens: 0.218809203159 0.35
+usa_nevada_las-vegas_gold_coast_hotel_and_casino: 0.468012436875 0.32
+are_dubai_coral_deira_dubai: 0.271205505454 0.5
+usa_nevada_las-vegas_main_street_station_hotel_casino: 0.277082205416 0.0
+usa_illinois_chicago_howard_johnson_inn_downtown_chicago: 0.779597733483 0.35
+usa_new york city_courtyard_by_marriott_new_york_manhattan_times_square_south: 1.14462512734 0.4
+uk_england_london_novotel_london_excel: 0.274680885772 0.1
+usa_illinois_chicago_the_peninsula_chicago: 1.14601737645 0.35
+uk_england_london_the_montague_on_the_gardens: 1.3718787338 0.5
+china_beijing_sofitel_wanda_beijing: 0.622613651427 0.25
+usa_illinois_chicago_the_sutton_place_hotel: 1.16927368629 0.4
+uk_england_london_eurotraveller_hotel: 0.218328956429 0.5
+are_dubai_dubai_marina_the_waves: 0.134124837286 0.3
+uk_england_london_claridge_s: 1.26972852155 0.25
+are_dubai_le_meridien_mina_seyahi_beach_resort_and_marina: 0.935565260726 0.25
+usa_new york city_hotel_reserve: 0.735468278725 0.2
+are_dubai_the_country_club_hotel_dubai: 0.233763969127 0.6
+uk_england_london_the_barn_hotel: 0.254406766544 0.1
+uk_england_london_foubert_s_hotel: 0.21456277226 0.5
+uk_england_london_comfort_inn_hyde_park: 0.663774252458 0.2
+are_dubai_jormand_hotel_apartments: 0.255115270441 0.32
+uk_england_london_radisson_edwardian_vanderbilt: 0.612780828197 0.5
+uk_england_london_travelodge_london_fulham: 0.267583392606 0.4
+uk_england_london_radisson_edwardian_bloomsbury_street: 1.16709424889 0.0
+usa_new york city_chelsea_lodge: 1.38305685091 0.25
+usa_new york city_on_the_ave_hotel: 1.25904331647 0.23
+usa_nevada_las-vegas_the_mansion_at_mgm_grand: 0.678244589859 0.5
+china_shanghai_asset_hotel_shanghai: 0.593343565909 0.32
+uk_england_london_olympic_house_hotel: 0.265680024364 0.5
+usa_new york city_holiday_inn_midtown_57th_st: 0.653170800141 0.5
+usa_new york city_the_surrey: 0.611844603928 0.35
+can_quebec_montreal_marriott_chateau_champlain: 1.40252243824 0.0
+uk_england_london_concorde_hotel: 0.219150914306 0.2
+uk_england_london_the_kingsley_by_thistle: 1.02803816862 0.5
+uk_england_london_grange_langham_court: 0.259182717107 0.5
+uk_england_london_victoria_station_hotel: 0.16434278964 0.32
+usa_nevada_las-vegas_the_carriage_house: 0.522344966466 0.25
+uk_england_london_st_martins_lane_hotel: 0.952577215874 0.5
+can_montreal_hotel_l_abri_du_voyageur: 1.29237312902 0.05
+usa_new york city_ink48_a_kimpton_hotel: 0.848275301364 0.38
+uk_england_london_abcone_hotel: 0.254050302057 0.25
+usa_san francisco_the_dakota_hotel: 0.232199434959 0.2
+uk_england_london_mercure_london_city_bankside: 0.607163434955 0.15
+usa_san francisco_heritage_marina_hotel: 0.27395160618 0.0
+uk_england_london_grange_white_hall_hotel: 0.61721176559 0.0
+are_dubai_dubai_concorde_residence_hotel: 0.170451888474 0.25
+can_quebec_montreal_holiday_inn_montreal_airport: 0.611381912912 0.05
+usa_nevada_las-vegas_rodeway_inn: 0.235603427913 0.2
+are_dubai_london_crown_apartments_1: 0.710983559671 0.0
+uk_england_london_travelodge_london_liverpool_street: 0.570654491095 0.0
+uk_england_london_park_plaza_victoria_london: 0.881752006976 0.0
+are_dubai_kempinski_hotel_mall_of_the_emirates: 0.727119155299 0.35
+uk_england_london_country_inn_suites_london_bloomsbury: 0.260029619728 0.14
+india_new delhi_hotel_mehar_castle: 0.199711154973 0.3
+usa_new york city_wingate_by_wyndham_manhattan_midtown: 0.640789739986 0.5
+uk_england_london_adria_hotel: 0.23216344928 0.5
+can_montreal_hotel_xixe_siecle: 1.21166849065 0.2
+india_new delhi_hotel_swati: 0.222385961886 0.23
+usa_new york city_the_muse_hotel_new_york_a_kimpton_hotel: 1.13013832285 0.5
+china_beijing_hollyear_hotel_beijing: 0.126579655852 0.1
+uk_england_london_sara_hotel: 0.211365661023 0.5
+uk_england_london_holiday_inn_express_london_limehouse: 0.271420070534 0.35
+usa_new york city_best_western_convention_center_hotel: 0.558390567494 0.2
+usa_new york city_hotel_newton: 1.0950816448 0.5
+china_shanghai_mason_hotel_shanghai: 0.160420528417 0.5
+usa_san francisco_campton_place_hotel: 0.724981254948 0.5
+uk_england_london_premier_inn_london_victoria: 0.252736450851 0.5
+uk_england_london_holiday_inn_express_london_chingford_north_circular: 0.256433122864 0.35
+are_dubai_regent_beach_resort: 0.276138651792 0.25
+china_shanghai_broadway_mansions_hotel: 0.627184309016 1.0
+uk_england_london_langland_hotel: 0.939870664301 0.2
+can_quebec_montreal_auberge_ywca_hotel: 0.204956074064 0.5
+usa_san francisco_radisson_hotel_fisherman_s_wharf: 0.907828246571 0.35
+china_shanghai_crowne_plaza_shanghai: 0.260701634594 0.0
+usa_new york city_holiday_inn_express_nyc_madison_square_garden: 0.759533078837 0.0
+uk_england_london_premier_inn_london_tower_bridge: 0.268562331627 0.3
+china_beijing_crowne_plaza_park_view_wuzhou: 0.268279157199 0.5
+uk_england_london_igar_hotel: 0.207178187845 0.0
+can_quebec_montreal_aloft_montreal_airport: 0.263867034355 0.05
+can_quebec_montreal_hotel_le_rivage: 0.688966861267 0.35
+can_quebec_montreal_le_relais_lyonnais: 1.2172508896 0.35
+usa_illinois_chicago_four_points_by_sheraton_chicago_o_hare_airport: 0.235581944757 0.25
+are_dubai_the_address_downtown_burj_dubai: 0.260100053801 0.0
+are_dubai_the_baron_hotel_apartments: 0.161901599485 0.25
+usa_new york city_ramada_eastside: 0.517432602454 0.25
+usa_nevada_las-vegas_candlewood_suites_las_vegas: 0.268496753708 0.25
+usa_nevada_las-vegas_super_8_las_vegas: 0.266534485292 0.5
+uk_england_london_1_lexham_gardens: 0.729295971818 0.1
+usa_new york city_holiday_inn_nyc_manhattan_6th_avenue: 0.564730986866 0.25
+uk_england_london_hazlitt_s: 1.26378205946 0.35
+uk_england_london_radisson_edwardian_sussex_hotel: 0.85178345449 0.0
+are_dubai_najd_hotel_apartments: 0.222794184019 0.0
+are_dubai_marriott_executive_apartments_dubai_creek: 0.165173881947 0.2
+usa_san francisco_marriott_san_francisco_fisherman_s_wharf: 1.35637485252 0.1
+can_montreal_hotel_le_rivage: 0.688966861267 0.0
+uk_england_london_premier_inn_london_docklands_excel: 0.271091520092 0.7
+india_new delhi_avalon_courtyard: 0.719239633812 0.6
+can_quebec_montreal_courtyard_by_marriott_montreal_airport: 0.263460498347 0.0
+uk_england_london_regency_hotel_queen_s_gate: 1.09140226516 0.25
+china_beijing_bohao_radegast_hotel_beijing: 0.25110562461 0.25
+usa_new york city_the_pod_hotel: 1.2341673289 0.4
+india_new delhi_hotel_chand_palace: 0.167516904238 0.7
+uk_england_london_no_ten_manchester_street: 0.250979187705 0.25
+uk_england_london_the_belgrove_hotel: 0.642780477797 0.5
+uk_england_london_club_quarters_st_paul_s: 0.814474731756 0.35
+uk_england_london_the_royal_trafalgar_by_thistle: 0.743690801356 0.5
+usa_nevada_las-vegas_red_rock_casino_resort_spa: 1.27937754116 0.1
+uk_england_london_muswell_hill_hotel: 0.165633395818 0.35
+are_dubai_hilton_dubai_jumeirah: 1.28193926251 0.35
+usa_illinois_chicago_sheraton_chicago_northwest: 0.581066780989 0.3
+usa_nevada_las-vegas_super_8_las_vegas_nellis_afb: 0.24182248584 0.0
+usa_new york city_crosby_street_hotel: 0.239639838659 0.25
+usa_illinois_chicago_fairmont_chicago_millennium_park: 1.16968268212 0.4
+usa_san francisco_hotel_rex: 1.54443196939 0.15
+uk_england_london_glynne_court: 0.148158471751 0.6
+uk_england_london_renaissance_chancery_court_london: 1.34913152792 0.1
+uk_england_london_the_leonard_hotel: 0.269974506489 0.2
+can_quebec_montreal_crowne_plaza_hotel_montreal_airport: 0.220563958673 0.5
+usa_illinois_chicago_four_seasons_hotel_chicago: 0.800366645228 0.68
+can_montreal_hotel_le_bourbon: 0.255927850885 0.5
+uk_england_london_danubius_hotel_regents_park: 0.558380688559 0.2
+usa_san francisco_pontiac_hotel: 0.219703048824 0.35
+uk_england_london_easyhotel_london_south_kensington: 0.263021671514 0.5
+usa_new york city_four_points_by_sheraton_manhattan_soho_village: 0.27320977489 0.5
+usa_san francisco_bay_bridge_inn: 0.763918721345 0.35
+usa_san francisco_royal_pacific_motor_inn: 0.225507902732 0.35
+uk_england_london_brook_green_hotel: 0.248595430977 0.25
+uk_england_london_alexandra_hotel: 0.265648738808 0.0
+uk_england_london_alhambra_hotel: 0.917136507692 0.35
+china_shanghai_holiday_inn_pudong_hotel: 0.176397056488 0.35
+usa_nevada_las-vegas_a_fishers_inn: 0.101333485193 0.2
+are_dubai_atlantis_the_palm: 1.47009518294 0.05
+usa_san francisco_the_huntington_hotel_nob_hill_spa: 1.03262323358 0.5
+china_beijing_plaza_hotel_beijing: 0.176194569439 0.5
+uk_england_london_the_dorchester: 1.06152775869 0.26
+uk_england_london_london_bridge_hotel: 1.05464577478 0.0
+uk_england_london_hilton_london_paddington: 0.972520366429 0.35
+usa_san francisco_broadway_manor_inn: 0.569786347776 0.14
+china_shanghai_four_seasons_hotel_shanghai: 0.803750290791 0.5
+uk_england_london_royal_national_hotel: 1.07688373942 0.0
+uk_england_london_royal_hyde_park: 0.599795754851 0.5
+usa_illinois_chicago_hilton_suites_chicago_magnificent_mile: 0.558406824149 0.66
+uk_england_london_22_jermyn_street: 0.62237510792 0.5
+can_montreal_hotel_7_saisons: 0.188026242875 0.35
+usa_illinois_chicago_milshire_hotel: 0.126480811839 0.5
+usa_nevada_las-vegas_hampton_inn_tropicana: 0.266502915519 0.25
+uk_england_london_city_of_london_yha: 0.223533074394 0.14
+usa_new york city_hotel_beacon: 0.990339699072 0.0
+uk_england_london_club_quarters_gracechurch: 1.18243959829 0.0
+usa_illinois_chicago_wyndham_chicago: 0.991002509365 0.23
+uk_england_london_blue_bells_hotel: 0.240805717879 0.0
+china_beijing_autumn_garden_courtyard_hotel: 0.70607447701 0.5
+uk_england_london_the_mansions_apartments: 0.266875500863 0.5
+are_dubai_traders_hotel_dubai: 0.59451760459 1.0
+india_new delhi_marina_hotel_new_delhi: 0.216832143517 0.5
+usa_san francisco_halcyon_hotel: 0.701422396387 0.25
+can_quebec_montreal_hotel_plateau_royale: 0.643133407262 0.2
+are_dubai_delmon_hotel: 0.223661129008 0.25
+uk_england_london_wedgewood_hotel: 0.590061049891 0.35
+uk_england_london_eden_plaza_hotel: 0.507918829222 0.14
+usa_nevada_las-vegas_manor_suites: 0.202694547268 0.0
+uk_england_london_forest_view_hotel: 0.190576208407 0.3
+usa_illinois_chicago_w_chicago_city_center: 1.31991247803 0.2
+china_shanghai_howard_johnson_all_suites_hotel: 0.67549414475 0.15
+uk_england_london_marriott_london_maida_vale: 0.529045558872 0.2
+usa_new york city_radisson_martinique_on_broadway: 0.842372858402 0.0
+china_shanghai_sofitel_shanghai_hyland: 0.559936711516 0.2
+uk_england_london_carlton_hotel: 0.230295672947 0.5
+usa_illinois_chicago_the_westin_michigan_avenue_chicago: 0.954742552476 0.0
+usa_san francisco_union_square_plaza_hotel: 0.583458790058 0.36
+china_shanghai_renaissance_yangtze_hotel: 0.25070707372 0.2
+usa_new york city_comfort_inn_times_square: 0.27705903901 0.2
+usa_new york city_bedford_hotel: 0.971680669956 0.5
+usa_san francisco_alpha_inn_and_suites_san_francisco: 0.205681322099 0.5
+china_shanghai_pudong_shangri_la_shanghai: 1.00323402867 0.1
+uk_england_london_the_may_fair: 1.13172289747 0.35
+usa_san francisco_lombard_motor_inn: 0.226893463425 0.4
+china_shanghai_intercontinental_shanghai_pudong: 0.658773013188 0.5
+china_beijing_beijing_international_hotel: 0.265381787543 0.4
+are_dubai_marco_polo_hotel: 0.263063279943 0.5
+uk_england_london_dorset_square: 0.883649839507 0.5
+are_dubai_grandeur_hotel: 0.248552410373 0.2
+uk_england_london_premier_inn_london_kings_cross_st_pancras: 1.05219262913 0.5
+usa_illinois_chicago_midway_inn: 0.181679554009 0.5
+usa_new york city_fairfield_inn_new_york_manhattan_times_square_south: 0.623509060653 0.5
+can_quebec_montreal_candlewood_suites_montreal_centre_ville: 0.237571696182 0.25
+can_quebec_montreal_hotel_le_saint_andre: 0.228928674851 0.35
+usa_illinois_chicago_skylark_motel: 0.103832763689 0.25
+uk_england_london_best_western_burns_hotel: 0.986250841962 0.0
+china_beijing_hotel_cote_cour_beijing: 1.23455911158 0.3
+uk_england_london_sydney_house: 1.19729683798 0.2
+can_montreal_novotel_montreal_center: 0.693263941115 0.25
+can_quebec_montreal_sandman_hotel_montreal_longueuil: 1.01833040113 0.5
+uk_england_london_star_hotel: 0.212969171434 0.29
+china_shanghai_fraser_residence_shanghai: 0.233612824424 0.2
+usa_illinois_chicago_fairfield_inn_chicago_midway_airport: 0.253092131815 0.25
+india_new delhi_svelte_hotel_and_personal_suites: 0.607574926008 0.0
+can_montreal_hotel_manoir_des_alpes: 0.978939792982 0.05
+usa_illinois_chicago_renaissance_chicago_o_hare_suites_hotel: 0.554545105314 0.2
+usa_nevada_las-vegas_monte_carlo_resort_casino: 0.84280469923 0.5
+usa_san francisco_americas_best_value_inn_suites_union_square: 0.182855317733 0.35
+can_quebec_montreal_le_westin_montreal: 0.259459825624 0.2
+usa_nevada_las-vegas_golden_palm_hotel: 0.101480485437 0.23
+uk_england_london_grange_st_paul_s_hotel: 0.272761751184 0.2
+uk_england_london_marlin_apartments_queen_street: 0.221246209172 0.2
+usa_illinois_chicago_ambassador_east_hotel: 1.21189901782 0.5
+usa_new york city_the_ritz_carlton_new_york_central_park: 1.34403095167 0.32
+uk_england_london_new_linden_hotel: 1.12368143563 0.5
+usa_san francisco_taylor_hotel: 0.260460692223 0.5
+can_montreal_hotel_dauphin_montreal_downtown: 0.258289170951 0.5
+uk_england_london_the_soho_hotel: 1.43984651181 0.25
+are_dubai_star_boutique_hotel_apartments: 0.228189319521 0.0
+uk_england_london_camelot_house_hotel: 0.210041063863 0.0
+india_new delhi_velvet_apple: 0.222584906234 0.5
+usa_new york city_salisbury_hotel: 1.00988064943 0.23
+uk_england_london_parkwood_hotel: 0.568577883337 0.5
+uk_england_london_ashburn_hotel: 1.08960755065 0.35
+china_shanghai_hilton_shanghai: 0.569444684414 0.1
+uk_england_london_best_western_swiss_cottage_hotel: 0.273139054073 0.0
+usa_new york city_hotel_deauville: 0.55755948126 0.7
+can_montreal_hotel_les_suites_labelle: 0.640304876293 0.0
+usa_new york city_hotel_st_james: 1.02346462946 0.5
+uk_england_london_winchester_hotel: 0.592284641997 0.14
+uk_england_london_chester_hotel: 0.879190203618 0.25
+usa_illinois_chicago_the_blackstone_a_renaissance_hotel: 1.08690141504 0.35
+are_dubai_suitehotel_mall_of_the_emirates: 0.215579746605 0.23
+uk_england_london_novotel_london_city_south: 1.02432816414 0.2
+uk_england_london_radisson_edwardian_berkshire_hotel: 0.704012938381 0.15
+uk_england_london_the_columbus_hotel: 0.255087163178 0.4
+uk_england_london_ashley_hotel: 0.587790949793 0.6
+can_quebec_montreal_royal_versailles_hotel: 0.264106604462 0.2
+india_new delhi_hotel_florence: 0.235939674169 0.0
+uk_england_london_olympic_hotel_victoria: 0.230094014465 0.0
+uk_england_london_crowne_plaza_hotel_london_ealing: 0.612097659679 0.35
+usa_san francisco_presidio_inn_suites: 0.232760141974 0.2
+usa_nevada_las-vegas_riviera_hotel_casino: 1.02554293893 0.0
+china_shanghai_four_points_by_sheraton_shanghai_daning: 0.770275192187 0.35
+uk_england_london_the_omega_hotel: 0.226216835391 0.5
+uk_england_london_westbury_mayfair: 0.846376386142 0.29
+uk_england_london_the_darlington_hyde_park: 0.850035907583 0.5
+can_quebec_montreal_le_germain_hotel_montreal: 0.597003573447 0.35
+china_shanghai_pullman_shanghai_skyway_hotel: 0.225466223023 0.26
+usa_san francisco_executive_hotel_vintage_court: 1.19968108887 0.25
+china_shanghai_motel_168_shanghai_pudong_airport: 0.168351293437 0.2
+usa_san francisco_orchard_garden_hotel: 1.32722143042 0.36
+china_shanghai_swissotel_grand_shanghai: 0.264134093268 0.5
+china_beijing_grand_hotel_beijing: 0.636542178415 0.5
+can_montreal_hotel_europeenne: 0.246888574355 0.1
+uk_england_london_orchard_hotel: 0.244745116875 0.5
+india_new delhi_hotel_metro_heights: 0.218466994223 0.4
+usa_nevada_las-vegas_super_8_las_vegas_boulder_highway: 0.242658748872 0.3
+can_quebec_montreal_best_western_ville_marie_hotel_suite: 0.852969136357 0.5
+uk_england_london_sloane_square_hotel: 0.715188397358 0.0
+uk_england_london_hanger_hill_hotel: 0.218742448411 0.5
+are_dubai_city_seasons_hotel: 0.200514524326 0.2
+uk_england_london_ridgemount_hotel: 0.834289801921 0.7
+usa_san francisco_harbor_court_hotel_a_kimpton_hotel: 1.20678933331 0.5
+usa_new york city_hotel_chandler: 1.13401308469 0.25
+uk_england_london_crowne_plaza_london_the_city: 0.899082589299 0.5
+are_dubai_royal_ascot_hotel: 0.646963896219 0.5
+are_dubai_samaya_hotel_deira: 0.161401698606 0.7
+usa_nevada_las-vegas_holiday_inn_express_the_lakes_las_vegas: 0.195509448947 0.2
+india_new delhi_hotel_omni: 0.190393387702 0.4
+usa_nevada_las-vegas_eastside_cannery_casino_hotel: 0.225896195237 0.5
+uk_england_london_the_bentley_hotel_london_the_waldorf_astoria_collection: 0.253078396158 0.35
+usa_san francisco_hotel_bijou: 1.16932327058 0.7
+usa_nevada_las-vegas_crestwood_suites_las_vegas_boulevard: 0.247595490684 0.35
+uk_england_london_the_cavendish_london: 0.970169164937 0.32
+uk_england_london_chrysos_hotel: 0.224659969666 0.14
+uk_england_london_arosfa: 0.900472229511 0.25
+uk_england_london_citadines_london_south_kensington: 0.269302103763 0.0
+india_new delhi_hotel_welcome_palace: 0.243189627513 0.35
+usa_san francisco_the_grant_hotel: 0.274914940715 0.5
+usa_nevada_las-vegas_americas_best_value_inn_las_vegas: 0.261894766149 0.0
+usa_nevada_las-vegas_extended_stay_deluxe_las_vegas_east_flamingo: 0.242956898156 0.23
+usa_nevada_las-vegas_las_vegas_hilton: 0.450083196 0.2
+usa_san francisco_monarch_hotel: 0.704204567619 0.3
+are_dubai_legacy_hotel_apartments: 0.630167848136 0.5
+uk_england_london_church_street_hotel: 0.910031861713 0.3
+uk_england_london_the_ascot_hotel: 0.88572973964 0.2
+usa_illinois_chicago_congress_plaza_hotel: 0.950394223375 0.35
+uk_england_london_somerset_hotel: 0.650958889422 0.5
+india_new delhi_hotel_pearl_plaza: 0.196227423892 0.5
+uk_england_london_thistle_kensington_gardens: 0.521770725088 0.25
+uk_england_london_lily_hotel: 0.557140291738 0.35
+can_montreal_hilton_montreal_bonaventure: 1.06406429093 0.2
+uk_england_london_nh_kensington: 0.858305560457 0.25
+china_shanghai_grand_mercure_hongqiao_shanghai: 0.25270426771 0.0
+usa_san francisco_cow_hollow_motor_inn_and_suites: 1.10102989695 0.2
+can_quebec_montreal_hotel_kutuma: 0.620804967244 0.25
+usa_san francisco_university_club: 0.126945744307 0.25
+usa_new york city_soho_house_new_york: 0.842007771411 0.0
+usa_new york city_room_mate_grace: 1.48590801954 0.5
+uk_england_london_44_curzon_street_apartments: 0.223352217429 0.29
+uk_england_london_avalon_private_hotel: 0.216563985353 0.25
+uk_england_london_holiday_inn_london_bloomsbury: 1.02440125827 0.5
+can_quebec_montreal_hotel_manoir_des_alpes: 0.978939792982 0.25
+uk_england_london_travelodge_london_battersea: 0.627538540539 0.5
+india_new delhi_metropolis_tourist_home: 0.169129441304 0.5
+uk_england_london_the_quality_maitrise_hotel: 0.869771137284 0.35
+uk_england_london_think_earl_s_court: 0.211696345094 0.25
+china_beijing_nikko_new_century_beijing_hotel: 0.238956570055 0.5
+usa_san francisco_the_opal_san_francisco: 0.514259320543 0.5
+china_beijing_beijing_dong_fang_hotel: 0.173130688411 0.4
+can_montreal_la_tour_centre_ville: 0.547268713035 0.1
+can_montreal_hotel_casa_bella: 0.248228280622 0.0
+uk_england_london_the_beaufort: 1.1183149075 0.3
+can_quebec_montreal_le_meridien_versailles: 0.797195120862 0.3
+usa_new york city_comfort_inn_manhattan_bridge: 0.254037745359 0.35
+india_new delhi_crest_inn_hotel_new_delhi: 0.159689408681 0.35
+usa_san francisco_hotel_fusion: 0.528957521411 0.4
+usa_nevada_las-vegas_la_quinta_inn_and_suites_tropicana: 0.234598870358 0.0
+uk_england_london_the_tophams_hotel_belgravia: 0.57366914316 0.2
+usa_san francisco_the_westin_st_francis: 1.26697107236 0.5
+usa_nevada_las-vegas_residence_inn_las_vegas_convention_center: 0.262563356557 0.35
+uk_england_london_ace_hotel: 0.772601639407 0.3
+china_shanghai_jin_jiang_tower_hotel: 0.259838155271 0.4
+usa_new york city_courtyard_new_york_manhattan_fifth_avenue: 0.277448300891 0.5
+are_dubai_orchid_hotel: 0.686939788076 0.35
+usa_new york city_the_mave: 0.599099571018 0.23
+china_beijing_holiday_inn_central_plaza: 1.11805706025 0.35
+usa_new york city_w_new_york_the_court: 1.15728338883 0.2
+usa_san francisco_club_quarters_san_francisco: 1.33567404153 0.5
+uk_england_london_hotel_indigo_london_paddington: 1.06787392793 0.5
+uk_england_london_the_parkcity: 1.40735284674 0.5
+are_dubai_palm_beach_rotana_inn: 0.236680815462 0.1
+uk_england_london_la_gaffe: 0.689606999826 0.2
+uk_england_london_top_hotel_kensington_gardens: 0.854660522658 0.2
+uk_england_london_waverley_house_hotel: 0.970976371726 0.35
+are_dubai_the_fairmont_dubai: 0.271025264981 0.58
+usa_illinois_chicago_fairfield_inn_suites_chicago_downtown: 0.565753828826 0.5
+uk_england_london_avni_hotel_at_courtfield: 0.252646803783 0.25
+can_montreal_sofitel_montreal: 1.36344601814 0.4
+india_new delhi_hotel_apra_inn: 0.193314543247 0.4
+usa_new york city_hotel_indigo_new_york_city_chelsea: 0.256750403159 0.5
+china_shanghai_mansion_hotel: 1.03395608497 0.5
+china_beijing_soluxe_sunshine_courtyard_hotel: 0.214638049201 0.2
+uk_england_london_fairway_hotel: 0.94209003883 0.35
+uk_england_london_georgian_hotel: 0.638609277962 0.7
+uk_england_london_hyde_park_executive_apartments_hotel: 0.579162367286 0.2
+can_montreal_hotel_de_l_institut: 0.740430902857 0.3
+china_shanghai_crowne_plaza_shanghai_fudan: 0.653170676178 0.3
+uk_england_london_hyatt_regency_london_the_churchill: 0.521913005757 0.05
+china_beijing_templeside_deluxe_hutong_house_hotel: 0.233920200211 0.0
+uk_england_london_sanderson_hotel_london: 1.54636425877 0.35
+uk_england_london_pavilion_hotel: 1.01083530388 0.2
+uk_england_london_premier_inn_london_hampstead: 0.634679801842 0.35
+china_beijing_crowne_plaza_hotel_beijing: 0.270279073942 0.2
+can_montreal_le_germain_hotel_montreal: 0.597003573447 0.25
+usa_nevada_las-vegas_binion_s_horseshoe_hotel_casino_las_vegas: 0.52423651603 0.0
+uk_england_london_mabledon_court_hotel: 0.611504269208 0.1
+uk_england_london_st_mark_hotel: 0.248562825777 0.5
+are_dubai_savoy_crest_exclusive_hotel_apartments: 0.248558215436 0.2
+usa_san francisco_archstone_south_market: 0.161502656491 0.41
+can_quebec_montreal_parc_suites_hotel: 0.620091936708 0.25
+usa_san francisco_hyatt_at_fisherman_s_wharf: 1.03961790737 0.23
+india_new delhi_taj_mahal_hotel: 0.815437952107 0.35
+china_beijing_hotel_new_otani_chang_fu_gong: 0.23257935071 0.5
+uk_england_london_central_london_apartments: 0.222096007725 0.3
+uk_england_london_ridgeway_hotel_chingford: 0.12643841748 0.35
+are_dubai_dubai_marriott_harbour_hotel_suites: 0.139059183305 0.25
+usa_illinois_chicago_four_points_by_sheraton_chicago_midway_airport: 0.251010580447 0.0
+uk_england_london_premier_inn_london_kensington_olympia: 0.269445334265 0.2
+usa_illinois_chicago_hotel_allegro_chicago_a_kimpton_hotel: 1.48875040739 0.29
+usa_new york city_aka_united_nations: 0.225155124041 0.2
+usa_nevada_las-vegas_springhill_suites_las_vegas_convention_center: 0.237482099315 0.0
+uk_england_london_k_k_hotel_george: 1.23253338102 0.32
+are_dubai_moevenpick_hotel_bur_dubai: 0.240530100437 0.5
+usa_nevada_las-vegas_jerry_s_nugget: 0.166800908947 0.5
+usa_illinois_chicago_la_quinta_inn_suites_chicago_downtown: 0.258093240816 0.15
+are_dubai_jonrad_hotel: 0.247219143837 0.5
+can_quebec_montreal_hotel_le_prestige: 0.772080223651 0.1
+usa_new york city_affinia_dumont: 1.39194609727 0.2
+uk_england_london_best_western_mornington_hotel: 0.583805305047 0.26
+uk_england_london_abba_queen_s_gate_hotel: 0.572160573345 0.25
+usa_nevada_las-vegas_artisan_hotel: 1.17925401119 0.2
+usa_nevada_las-vegas_budget_suites_of_america_wynn: 0.672092466099 0.35
+uk_england_london_caswell_hotel: 0.239629861936 0.25
+usa_new york city_envoy_club: 1.00249344436 0.25
+usa_san francisco_good_nite_inn_san_francisco_airport: 0.255577095362 0.5
+usa_new york city_lafayette_house: 0.631350635499 0.2
+uk_england_london_so_quartier_nw6: 0.125618879702 0.35
+uk_england_london_travelodge_london_farringdon: 0.998404393003 0.25
+usa_nevada_las-vegas_palms_place_hotel_spa: 1.11594613306 0.5
+uk_england_london_travelodge_london_covent_garden: 0.812917901792 0.35
+uk_england_london_white_house_hotel: 0.150608036056 0.0
+are_dubai_richmond_hotel_apartments: 0.592689225757 0.3
+uk_england_london_citadines_holborn_covent_garden: 0.561705494934 0.05
+uk_england_london_langorf_hotel_apartments: 0.257158614381 0.0
+usa_illinois_chicago_millennium_knickerbocker_hotel_chicago: 1.25386674574 0.35
+usa_nevada_las-vegas_the_westin_casuarina_las_vegas_hotel_casino_spa: 0.899113733856 0.5
+uk_england_london_mitre_house_hotel: 0.909946509368 0.4
+can_quebec_montreal_le_1_rene_levesque: 0.613433371366 0.5
+uk_england_london_hotel_rama: 0.222925894468 0.35
+are_dubai_sun_sands_hotel: 0.227008236547 0.29
+usa_new york city_hotel_east_houston: 0.619044876516 0.25
+uk_england_london_gresham_hotel_hanger_lane: 0.176470609924 0.05
+uk_england_london_travelodge_london_kew_bridge: 0.59836682862 0.35
+uk_england_london_travelodge_wembley: 0.563408707822 0.35
+uk_england_london_merlyn_court_hotel: 0.271353992382 0.25
+uk_england_london_premier_inn_london_wimbeldon_south: 0.701814606947 0.5
+uk_england_london_bickenhall_hotel: 0.249706463057 0.35
+usa_new york city_peninsula_new_york: 0.959931129989 0.25
+uk_england_london_the_gate: 0.686144875008 0.2
+china_shanghai_peace_hotel: 0.256677922708 0.35
+usa_new york city_millenium_hilton: 1.40416670349 0.2
+uk_england_london_vancouver_studios: 1.13504314577 0.5
+can_quebec_montreal_comfort_inn_south: 0.10088875232 0.25
+usa_new york city_hotel_on_rivington: 1.15546217402 0.2
+can_montreal_candlewood_suites_montreal_centre_ville: 0.237571696182 0.25
+uk_england_london_190_bermondsey_street: 0.167921681429 0.25
+uk_england_london_city_continental_london_kensington: 0.716352937287 0.3
+are_dubai_the_ritz_carlton_dubai: 1.13191920408 0.5
+usa_new york city_tudor_hotel_at_the_united_nations: 1.18683347911 0.1
+can_quebec_montreal_fairmont_the_queen_elizabeth: 1.38870578946 0.26
+uk_england_london_camden_lock_hotel: 0.250163338373 0.25
+uk_england_london_new_england_hotel: 0.593590491425 0.1
+can_quebec_montreal_hotel_casa_bella: 0.248228280622 0.5
+uk_england_london_bryanston_court_hotel: 0.134361904047 0.35
+usa_nevada_las-vegas_casino_royale_and_hotel: 0.583588150928 0.38
+uk_england_london_andaz_london: 0.786668971428 0.7
+uk_england_london_days_hotel_london_south_ruislip: 0.211081603145 0.35
+china_shanghai_renaissance_shanghai_pudong: 0.266689890687 0.3
+uk_england_london_stanley_house: 0.250517690097 0.35
+usa_new york city_plaza_athenee_hotel: 0.961821856699 0.5
+usa_new york city_red_roof_inn_manhattan: 0.798468470196 0.2
+usa_new york city_morgans_hotel: 0.828648490244 0.5
+usa_san francisco_handlery_union_square_hotel: 1.16623071888 0.2
+are_dubai_al_qasr_at_madinat_jumeirah: 1.36826847799 0.35
+usa_san francisco_the_wharf_inn: 0.926096123648 0.38
+uk_england_london_vandon_house_hotel: 0.254471562951 0.2
+uk_england_london_windmill_on_the_common: 0.260426251904 0.2
+uk_england_london_flexistay_aparthotel_tooting_london: 0.162263636227 0.5
+usa_san francisco_capri_motel: 0.16172085535 0.5
+are_dubai_oaks_liwa_heights: 0.805101050639 0.29
+can_montreal_hilton_garden_inn_montreal_centre_ville: 0.612484222852 0.7
+uk_england_london_windermere_hotel: 0.277291339336 0.5
+uk_england_london_berjaya_eden_park_hotel: 0.568036232844 0.2
+usa_illinois_chicago_chicago_marriott_at_medical_district_uic: 0.242741118272 0.2
+uk_england_london_st_peters_hotel: 0.134959061522 0.5
+uk_england_london_bentinck_house_hotel: 0.216921208667 0.5
+uk_england_london_clearlake_hotel: 0.201053082134 0.5
+china_shanghai_88_xintiandi_executive_residence: 0.555315029215 0.35
+uk_england_london_leigham_court_hotel: 0.146977108165 0.7
+uk_england_london_st_george_hotel: 0.21909920534 0.5
+usa_new york city_phillips_club: 0.215700625051 0.5
+uk_england_london_city_hotel: 1.20026377177 0.5
+uk_england_london_sofitel_st_james_london: 1.42939336518 0.2
+uk_england_london_oxford_house_hotel: 0.712787163942 0.2
+usa_illinois_chicago_the_tremont_chicago: 0.773358650217 0.7
+china_beijing_legendale_hotel_beijing: 0.160274153651 0.5
+india_new delhi_hotel_shanti_palace: 0.738177345647 0.62
+uk_england_london_sheraton_park_tower: 0.27668040087 0.23
+uk_england_london_holiday_inn_express_london_golders_green_north: 0.22279772089 0.2
+usa_san francisco_phoenix_hotel: 1.13999766585 0.1
+china_shanghai_the_puli_hotel_and_spa: 0.242993964628 0.25
+usa_san francisco_ramada_limited_san_francisco: 0.236441547862 0.0
+uk_england_london_britannia_international_hotel: 1.10104206845 0.34
+uk_england_london_days_inn_london_hyde_park: 0.151589276208 0.25
+can_montreal_quartier_latin_hotel: 0.919900069073 0.25
+usa_san francisco_mithila: 0.556949042129 0.25
+usa_san francisco_super_8_san_francisco_fisherman_s_wharf: 0.212080158464 0.2
+china_beijing_marriott_hotel_beijing_city_wall: 0.26424311921 0.35
+uk_england_london_her_majesty_hotel: 0.265663586594 0.25
+china_shanghai_parkyard_hotel_shanghai: 0.232776811223 0.25
+india_new delhi_jukaso_inn_downtown: 0.190271891227 0.5
+usa_illinois_chicago_bellwood_hotel: 0.13751195512 0.2
+usa_new york city_hotel_gansevoort: 1.05057004578 0.25
+india_new delhi_taj_palace_hotel: 0.752398606166 0.26
+usa_nevada_las-vegas_motel_6_las_vegas_i_15: 0.167526381889 0.35
+are_dubai_dolphin_hotel_apartments: 0.254128612778 0.5
+usa_san francisco_omni_san_francisco_hotel: 1.35030323656 0.22
+usa_new york city_the_lucerne_hotel: 1.22758151503 0.35
+china_beijing_shatan_hotel: 0.270899849502 0.2
+china_shanghai_yafan_longmen_hotel: 0.248816303895 0.2
+usa_nevada_las-vegas_mgm_grand_hotel_and_casino: 1.08553026425 0.35
+are_dubai_holiday_inn_express_dubai_internet_city: 0.265926512888 0.0
+uk_england_london_edward_lear_hotel: 0.580552294328 0.32
+usa_illinois_chicago_delaware_towers: 0.207571624034 0.5
+are_dubai_metropolitan_palace_hotel: 0.248160305342 0.25
+india_new delhi_hotel_janpath_ashok: 0.237163926137 0.3
+usa_san francisco_w_san_francisco: 1.20549672352 0.6
+usa_nevada_las-vegas_bally_s_las_vegas_hotel_casino: 0.669759246329 0.2
+can_quebec_montreal_econo_lodge_downtown: 0.212938530595 0.7
+china_beijing_luxury_serviced_residence: 0.227691492239 0.25
+uk_england_london_an_nur_anna_hotel: 0.999462597982 0.2
+can_montreal_hotel_montreal_centrale: 0.19917673573 0.35
+uk_england_london_boka_hotel: 0.23984082999 0.0
+usa_nevada_las-vegas_worldmark_tropicana: 0.251683901985 0.5
+uk_england_london_baglioni_hotel_london: 1.20384182574 0.0
+can_quebec_montreal_le_saint_sulpice: 1.48416635687 0.25
+china_shanghai_central_hotel_shanghai: 0.256524903302 0.25
+india_new delhi_hotel_royal_holidays: 0.254415376718 0.25
+are_dubai_hallmark_hotel: 0.239816055803 0.35
+india_new delhi_conclave_comfort: 0.151340666942 0.5
+india_new delhi_petite_hotels: 0.103193397953 0.2
+india_new delhi_hotel_singh_sahib: 0.13698260625 0.05
+uk_england_london_charing_cross: 0.914677737038 0.5
+china_beijing_beijing_century_towers: 0.157077824804 0.0
+usa_san francisco_marines_memorial_club_hotel: 0.792757647598 0.35
+usa_san francisco_alexis_park_san_francisco: 0.612767192855 0.35
+usa_san francisco_aida_hotel: 0.227857462704 0.38
+china_shanghai_an_ting_villa_hotel_shanghai: 0.149284602843 0.0
+uk_england_london_odessa_wharf: 0.224435301724 0.5
+uk_england_london_hand_and_flower_hotel: 0.229154744734 0.18
+uk_england_london_royal_park_hotel: 1.42449920024 0.6
+china_shanghai_sheraton_shanghai_hongqiao_hotel: 0.221009238877 0.35
+usa_nevada_las-vegas_town_and_country_manor_iii: 0.126853625226 0.25
+usa_new york city_dylan_hotel: 1.107095962 0.2
+uk_england_london_london_school_of_economics_northumberland_house: 0.140178939792 0.35
+uk_england_london_harlingford_hotel: 1.11691533514 0.3
+usa_illinois_chicago_the_silversmith_hotel_suites: 0.776459005774 0.5
+usa_nevada_las-vegas_wingate_by_wyndham_henderson: 0.625863610456 0.36
+usa_san francisco_beach_motel: 0.207972054991 0.2
+usa_nevada_las-vegas_fairfield_inn_las_vegas_airport: 0.252995356525 0.2
+china_shanghai_ramada_pudong_airport_hotel: 0.17272575997 0.25
+uk_england_london_holiday_inn_express_earls_court: 0.950015908616 0.35
